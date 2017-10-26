@@ -1,0 +1,55 @@
+{
+  "users": [
+    {
+      "name": "Emily",
+      "phone": "2345235345",
+      "email": "emily@gmail.com",
+      "age": "30",
+      "id": 3,
+      "companyId": 3
+    },
+    {
+      "name": "Apple",
+      "phone": "2345235345",
+      "email": "emey@gmail.com",
+      "age": "30",
+      "id": 4,
+      "companyId": 3
+    },
+    {
+      "name": "Apple",
+      "id": 5
+    },
+    {
+      "name": "Apple",
+      "id": 6
+    },
+    {
+      "name": "Apple",
+      "id": 7
+    },
+    {
+      "id": 8
+    },
+    {
+      "id": 9
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "description": "Apple is Apple"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft",
+      "description": "Microsoft is Microsoft"
+    },
+    {
+      "id": 3,
+      "name": "Google",
+      "description": "Google is Google"
+    }
+  ]
+}
