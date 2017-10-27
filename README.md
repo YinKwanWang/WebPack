@@ -15,6 +15,11 @@
 
 ### 	webpack-server: 作用是搭建服务器，将项目运行在服务器中 
 
+
+###  命令：npm run start   
+
+###  命令：npm run build
+
 ###     引入样式打包的话不用变量接收
 ###     require("style-loader!css-loader!./style.css");
 
